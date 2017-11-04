@@ -43,9 +43,13 @@ img {
 #slideshow {
   text-align:center;
 }
-#first #second{
-  background-color: #cec2c0;
-  border: 1px dashed black;
+#first{
+  background-color: pink;
+  border: 5px dashed black;
+}
+#second{
+  background-color: pink;
+  border: 5px dashed black;
 }
 footer{
   text-align:center;
