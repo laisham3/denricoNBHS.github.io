@@ -43,6 +43,10 @@ img {
 #slideshow {
   text-align:center;
 }
+#first #second{
+  background-color: #cec2c0;
+  border: 1px dashed black;
+}
 footer{
   text-align:center;
   background-color:teal;
