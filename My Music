@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<body>
+<div id="Music">
+  <p> Welcome to My Music Page </p>
+</div>
+<h3>Music</h3> 
+  <p> I have a diverse genre of music I listen to I listen to pop, hip hop, hispanic music etc.. </p>
+  <p>This playlist is more pop music than any other genre.</p>
+  <p> Make sure you follow my spotify account to listen to more playlists: laisham3. </p>
+  <div id="spotify">
+    <iframe src="https://open.spotify.com/user/laisham3/playlist/1p6q2xbzIQRl8HNGUn99Cf" width="400" height="350" frameborder="0" allowtransparency="true"></iframe>
+    </div>
