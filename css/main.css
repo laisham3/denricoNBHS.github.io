@@ -4,6 +4,9 @@
 #header{
   background-color:teal;
 }
+#menu a{
+color: black;
+}
 #main{
   background-color: pink;
   font-size: 23px;
