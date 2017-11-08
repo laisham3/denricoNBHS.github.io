@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm Alive"
+title: "second post"
 date: 2017-11-01
 ---
 
