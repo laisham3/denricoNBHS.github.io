@@ -13,6 +13,7 @@ layout: default
 	</div>
 	{% for post in site.posts %}
 	<h2> {{ post.title }} </h2>
-	{{ post.excerpt }}
+	<p> {{ post.date }} </p>
+	<p> {{ post.excerpt }} </p>
 	{% endfor %}
 </div>
